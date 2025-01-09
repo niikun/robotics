@@ -3,3 +3,5 @@ numpy
 modern_robotics
 matplotlib
 seaborn
+torch
+scikit-learn
